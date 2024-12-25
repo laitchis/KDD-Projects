@@ -6,7 +6,7 @@ Luke Aitchison
 
 Running PageRank:
 
-python3 pageRank.py [filename] [d] <useEdgeWeights>
+python3 pageRank.py [filename] [d] [useEdgeWeights]
 
 Where d is a float between 0 and 1, and useEdgeWeights is either a 0 or a 1. 
 
